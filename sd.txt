@@ -1,0 +1,2 @@
+output size = (input size - kernelsize + 1+(padding*2)/2
+output size =( Input Size + 2*padding - filtersize)/stride + 1

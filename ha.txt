@@ -1,0 +1,17 @@
+	lstm/gru
+	Adam(optimize)
+	focal loss
+	label smoothing
+Encoder
+	resnet18, densenet을 conv에 추가(epoch=20)
+	ensemble(lightgb x)
+Decode
+	teacher_forcing_ratio decay
+	hidden layer 가져오는 것보다 거쳐서 오는 것
+
+과제 - mel_spectogram
+	mixup, erase
+
+
+
+
